@@ -16,3 +16,8 @@
 기본적인 배열은 알겠으나 음계부분에서 많은 시간이 소요
 
 ![캡처](https://user-images.githubusercontent.com/39434913/62546241-14833f00-b89e-11e9-8c7b-7cd0d7f772c6.PNG)
+
+2019-08-08 백준의 알고리즘 기본6, 배열 진행중<br>
+생각이 바로 나지 않아 시간은 좀 보냈지만 나머지와 평균 해결
+
+![캡처](https://user-images.githubusercontent.com/39434913/62709728-ea15bb00-ba30-11e9-8a28-54d3d175d51f.PNG)
