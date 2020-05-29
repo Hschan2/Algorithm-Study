@@ -1,23 +1,14 @@
-# BaekJoon_Study_ing
-백준 알고리즘 공부 진행중
+### 백준의 알고리즘 단계별로 풀기
 
+- 알고리즘의 기본부터 차근차근 학습
 
-2019-07-26 백준의 알고리즘 기본 1, 입·출력 완료<br>
-2019-07-27 백준의 알고리즘 기본 2, 사칙연산 및 응용 완료<br>
-2019-07-28 백준의 알고리즘 기본 3, IF 완료<br>
-2019-07-30 백준의 알고리즘 기본 4, WHILE 완료<br>
-2019-07-31 백준의 알고리즘 기본 5, FOR 완료<br>
-
-** 기본적으로 문제를 푸는데에 순조롭게 진행되었으나 \n 등을 빼먹는 등 간단한 오타가 많았다.
-
-![531](https://user-images.githubusercontent.com/39434913/62465119-247d1f00-b7c9-11e9-8a29-aaf99a5a1595.PNG)
-
-2019-08-06 백준의 알고리즘 기본6, 배열 진행중<br>
-기본적인 배열은 알겠으나 음계부분에서 많은 시간이 소요
-
-![캡처](https://user-images.githubusercontent.com/39434913/62546241-14833f00-b89e-11e9-8c7b-7cd0d7f772c6.PNG)
-
-2019-08-08 백준의 알고리즘 기본6, 배열 진행중<br>
-생각이 바로 나지 않아 시간은 좀 보냈지만 나머지와 평균 해결
-
-![캡처](https://user-images.githubusercontent.com/39434913/62709728-ea15bb00-ba30-11e9-8a28-54d3d175d51f.PNG)
+1. [입출력과 사칙연산](https://www.acmicpc.net/step/1) 완료<br>
+1. [if문](https://www.acmicpc.net/step/4) 완료<br>
+1. [for문](https://www.acmicpc.net/step/3) 완료<br>
+1. [while문](https://www.acmicpc.net/step/2) 완료<br>
+1. [실습 1](https://www.acmicpc.net/step/48) 완료<br>
+1. [1차원 배열](https://www.acmicpc.net/step/6) 완료<br>
+1. [함수](https://www.acmicpc.net/step/5) 완료<br>
+1. [문자열](https://www.acmicpc.net/step/7) 완료<br>
+1. [수학 1](https://www.acmicpc.net/step/8) 달팽이는 올라가고 싶다 진행 중<br>
+1. [재귀](https://www.acmicpc.net/step/19) 피보나치 수 5 진행 중<br>
