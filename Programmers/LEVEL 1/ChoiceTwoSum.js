@@ -50,7 +50,7 @@ function solution(numbers) {
     
     // answer = answer.filter((item, index) => answer.indexOf(item) === index);
     
-    answer = [...new Set(answer)];
+    answer = [...new Set(answer)]; // 이번 계기로 알게 된 방법
     
     return answer;
 }
