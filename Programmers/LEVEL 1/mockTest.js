@@ -30,6 +30,8 @@ answers	return
 모든 사람이 2문제씩을 맞췄습니다.
 */
 
+// 완전 탐색 알고리즘 문제
+
 function solution(answers) {
     const first = [1, 2, 3, 4, 5];
     const second = [2, 1, 2, 3, 2, 4, 2, 5];
