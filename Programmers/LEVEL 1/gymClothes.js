@@ -70,3 +70,24 @@ function solution(n, lost, reserve) {
     
     return answer;
 }
+
+// map, filter 사용 버전
+
+function solution(n, lost, reserve) {
+    // 실제로 체육복을 잃어버린 학생
+    let lostCloth = lost.filter(v => !reserve.includes(v));
+    // 실제로 체육복 여분을 챙긴 학생
+    let reserveCloth = reserve.filter(v => !lost.includes(v));
+
+    return n - lostCloth.filter(v => {
+        // 체육복이 2개인 학생과 체격차가 1인 학생
+        // abs는 절대값 구하기 => 예. -1을 1로
+        let findReserve = reserveCloth.find(r => Math.abs(r - v) <= 1);
+
+        // 체격차가 1인 학생이 없을 때, 그대로 출력
+        if(!findReserve) return true;
+
+        // 체격자가 1인 학생을 찾았을 때, lost에서 받은 학생 제외, reserve에서 빌려준 학생 제외
+        reserveCloth = reserveCloth.filter(r => r !== findReserve);
+    }).length;
+}
