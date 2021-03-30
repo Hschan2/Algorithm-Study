@@ -46,3 +46,29 @@ class Solution {
 }
 
 // => 효율성 테스트 3, 4 통과 X
+
+// Hash를 이용한 다른 사람의 풀이
+// 효율성 테스트 모두 통과
+import java.util.HashMap;
+import java.util.Arrays;
+
+class Solution {
+    public boolean solution(String[] phone_book) {
+        boolean answer = true;
+        Arrays.sort(phone_book);  // 정렬
+        HashMap<String, String> checker = new HashMap<>();
+
+        for(int j = 0; j < phone_book.length; j++){
+            String arg = phone_book[j];
+            checker.put(arg, arg);  // 확인할 대상 넣기
+            for(int i = 0; i < arg.length(); i++){ // 본인의 키 값 패턴이 다른곳에도 있는가 확인
+                String mini = arg.substring(0,i);  // 키 값을 하나씩 늘려가기
+                if(checker.get(mini) != null){  // 키 값 조사하여 확인, 접두어가 있을 경우
+                    answer = false;
+                    break;
+                }
+            }
+        }
+        return answer;
+    }
+}
