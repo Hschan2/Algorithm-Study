@@ -38,8 +38,12 @@ while문 Clear
 
 ### Programmers
 ```
-LEVEL 1 단계 ...Ing
-(https://programmers.co.kr/learn/challenges)
+프로그래머스 코딩테스트 모든 문제
+[프로그래머스](https://programmers.co.kr/learn/challenges)
+
+LEVEL 1 단계 46개 문제 해결
+
+LEVEL 2 단계 7개 문제 해결
 ```
 
 ### HackerRank
