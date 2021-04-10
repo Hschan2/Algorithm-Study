@@ -43,7 +43,7 @@ while문 Clear
 
 LEVEL 1 단계 46개 문제 해결
 
-LEVEL 2 단계 9개 문제 해결
+LEVEL 2 단계 10개 문제 해결
 ```
 
 ### HackerRank
