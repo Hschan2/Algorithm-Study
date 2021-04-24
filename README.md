@@ -1,6 +1,6 @@
 # 알고리즘
 
-## 알고리즘 문제풀기
+## 🔶알고리즘 문제풀기
 ### 백준의 알고리즘
 * 입출력과 사칙연산 [Link](https://www.acmicpc.net/step/1)
 * if문 [Link](https://www.acmicpc.net/step/4)
@@ -21,7 +21,7 @@
 ### 해커랭크 [Link](https://www.hackerrank.com/)
 * Easy 단계
 
-## 코딩테스트
+## ⭐코딩테스트
 * NTEST (N사 코딩테스트) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/etc/NTEST.js)
 * TEST1 (K사 코딩테스트) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/etc/TEST1.js)
 * KCTest (K사 자회사 코딩테스트) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/etc/KCTest.js)
@@ -31,12 +31,12 @@
 * WaTest_3 (W사 테크코스 코딩테스트) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/etc/WaTest_3.js)
 * WaTest_4 (W사 테크코스 코딩테스트) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/etc/WaTest_4.js)
 
-## 알고리즘 지식
+## 💡알고리즘 지식
 * Bellman-Ford Algorithm (벨만 포드 알고리즘) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/Bellman-Ford%20Algorithm.js)
 * Greedy (그리디 알고리즘) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/Greedy.js)
 * Priority Queue (우선 순위 큐) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/Priority%20Queue.py)
 * Search Algorithm (탐색 알고리즘) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/SearchAlgorithm.js)
 * Tree Algorithm (트리 알고리즘) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/TreeAlgorithm.md)
 
-## 알고리즘 실습
+## 💎알고리즘 실습
 * 이진 탐색 (Java) [Link](https://github.com/Hschan2/Algorithm-Study/tree/master/AlgorithmPractice/binarysearch)
