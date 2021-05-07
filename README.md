@@ -37,6 +37,8 @@
 * Priority Queue (우선 순위 큐) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/Priority%20Queue.py)
 * Search Algorithm (탐색 알고리즘) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/SearchAlgorithm.js)
 * Tree Algorithm (트리 알고리즘) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/TreeAlgorithm.md)
+* Dijkstra Algorithm (다익스트라 알고리즘) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/Dijkstra%20Algorithm.md)
 
 ## 💎알고리즘 실습
 * 이진 탐색 (Java) [Link](https://github.com/Hschan2/Algorithm-Study/tree/master/AlgorithmPractice/binarysearch)
+* 다익스트라 알고리즘 (Java) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmPractice/Dijkstra%20Algorithm.java)
