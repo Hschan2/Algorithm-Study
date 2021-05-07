@@ -8,9 +8,9 @@ public class Dijkstra {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int V = sc.nextInt();
-        int E = SC.nextInt();
-        int[][] adj = new int[V][V];
+        int V = sc.nextInt(); // 정점 개수
+        int E = SC.nextInt(); // 간선 개수
+        int[][] adj = new int[V][V]; // 인접
 
         for(int i = 0; i< E; i++) {
             adj[sc.nextInt()][sc.nextInt()] = sc.nextInt();
