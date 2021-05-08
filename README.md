@@ -42,3 +42,4 @@
 ## 💎알고리즘 실습
 * 이진 탐색 (Java) [Link](https://github.com/Hschan2/Algorithm-Study/tree/master/AlgorithmPractice/binarysearch)
 * 다익스트라 알고리즘 (Java) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmPractice/Dijkstra%20Algorithm.java)
+* 다익스트라 알고리즘 (Javascript) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmPractice/Dijkstra%20Algorithm.js)
