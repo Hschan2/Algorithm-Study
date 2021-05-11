@@ -16,7 +16,7 @@
 
 ### 프로그래머스 [Link](https://programmers.co.kr/learn/challenges)
 * LEVEL 1 단계 46개 문제 해결
-* LEVEL 2 단계 15개 문제 해결
+* LEVEL 2 단계 16개 문제 해결
 
 ### 해커랭크 [Link](https://www.hackerrank.com/)
 * Easy 단계
