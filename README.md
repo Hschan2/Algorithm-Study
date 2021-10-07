@@ -13,6 +13,8 @@
 * 수학 1 [Link](https://www.acmicpc.net/step/8)
 * 수학 2 [Link](https://www.acmicpc.net/step/10)
 * 재귀 [Link](https://www.acmicpc.net/step/19)
+* 백준 알고리즘 필수 코스 [Link](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon/%EB%B0%B1%EC%A4%80%20%ED%95%84%EC%88%98%20%EC%BD%94%EC%8A%A4)
+    * [입출력](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon/%EB%B0%B1%EC%A4%80%20%ED%95%84%EC%88%98%20%EC%BD%94%EC%8A%A4/%EC%9E%85%EC%B6%9C%EB%A0%A5)
 
 ### 프로그래머스 [Link](https://programmers.co.kr/learn/challenges)
 * LEVEL 1 단계 46개 문제 해결
