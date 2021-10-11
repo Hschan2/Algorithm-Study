@@ -14,7 +14,7 @@
 * 수학 2 [Link](https://www.acmicpc.net/step/10)
 * 재귀 [Link](https://www.acmicpc.net/step/19)
 * 백준 알고리즘 필수 문제 [Link](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon/%EB%B0%B1%EC%A4%80%20%ED%95%84%EC%88%98%20%EC%BD%94%EC%8A%A4)
-    * [그 외]()
+    * [그 외](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon/%EB%B0%B1%EC%A4%80%20%ED%95%84%EC%88%98%20%EB%AC%B8%EC%A0%9C/%EA%B7%B8%20%EC%99%B8)
     * [그래프]()
     * [그리디]()
     * [동적 프로그래밍]()
