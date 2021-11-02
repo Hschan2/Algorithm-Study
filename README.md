@@ -17,7 +17,7 @@
     * [그 외](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon/%EB%B0%B1%EC%A4%80%20%ED%95%84%EC%88%98%20%EB%AC%B8%EC%A0%9C/%EA%B7%B8%20%EC%99%B8)
     * [그래프]()
     * [그리디]()
-    * [동적 프로그래밍]()
+    * [동적 프로그래밍](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon/%EB%B0%B1%EC%A4%80%20%ED%95%84%EC%88%98%20%EB%AC%B8%EC%A0%9C/%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
     * [분할 정복](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon/%EB%B0%B1%EC%A4%80%20%ED%95%84%EC%88%98%20%EB%AC%B8%EC%A0%9C/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5)
     * [완전 탐색]()
     * [이분 탐색 및 삼분 탐색]()
