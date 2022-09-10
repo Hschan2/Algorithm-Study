@@ -1,6 +1,50 @@
-# 알고리즘
+# 🔶알고리즘
+효율적인 개발을 위해 알고리즘을 학습합니다.   
 
-## 🔶알고리즘 문제풀기
+BaekJoon, Programmers, HackerRank 사이트에서 알고리즘을 직접 풀어보며 알고리즘 지식을 향상시키고 있습니다.   
+
+코딩테스트에 참여해 학습한 알고리즘 지식을 활용해봅니다.   
+
+알고리즘 강의를 시청하며 코드를 직접 작성해보며 학습합니다. 그리고 학습한 지식을 기록하고 있습니다.   
+
+<br/>
+
+## 알고리즘 문제 풀기
+|타이틀|폴더로 이동|
+|---|:---:|
+|**백준 알고리즘**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon)|
+|**프로그래머스**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/Programmers)|
+|**해커랭크**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/HackerRank/Easy)|
+
+<br/>
+
+## 알고리즘 지식 학습
+|타이틀|폴더로 이동|
+|---|:---:|
+|**알고리즘 종류**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge)|
+|**알고리즘 실습**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/AlgorithmPractice)|
+
+<br/>
+
+## 코딩테스트 연습
+|타이틀|폴더로 이동|
+|---|:---:|
+|**순열**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/BaekJoon/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8C%80%EB%B9%84/%EC%97%B0%EC%8A%B5/%EC%88%9C%EC%97%B4.js)|
+
+<br/>
+
+## 코딩테스트 참여
+|타이틀|폴더로 이동|
+|---|:---:|
+|**W사 테크코스 코딩테스트**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/etc/W%EC%82%AC%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)|
+|**N사 코딩테스트**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/etc/N%EC%82%AC%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)|
+|**K사 코딩테스트**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/etc/K%EC%82%AC%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)|
+
+<br/>
+   
+[알고리즘 학습 추천 사이트](https://github.com/Hschan2/Algorithm-Study/blob/master/Algorithm%20Study%20Sites.md)
+
+<!-- ## 🔶알고리즘 문제풀기
 ### 백준의 알고리즘
 * 입출력과 사칙연산 [Link](https://www.acmicpc.net/step/1)
 * if문 [Link](https://www.acmicpc.net/step/4)
@@ -53,7 +97,7 @@
 * 다익스트라 알고리즘 (Java) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmPractice/Dijkstra%20Algorithm.java)
 * 다익스트라 알고리즘 (Javascript) [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmPractice/Dijkstra%20Algorithm.js)
 
-## 코딩테스트 갈고리즘 연습
+## 코딩테스트 알고리즘 연습
 * [순열](https://github.com/Hschan2/Algorithm-Study/blob/master/BaekJoon/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8C%80%EB%B9%84/%EC%97%B0%EC%8A%B5/%EC%88%9C%EC%97%B4.js)
 
-## 알고리즘 학습 추천 사이트 [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/Algorithm%20Study%20Sites.md)
+## 알고리즘 학습 추천 사이트 [Link](https://github.com/Hschan2/Algorithm-Study/blob/master/Algorithm%20Study%20Sites.md) -->
