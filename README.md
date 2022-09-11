@@ -10,11 +10,11 @@ BaekJoon, Programmers, HackerRank 사이트에서 알고리즘을 직접 풀어�
 <br/>
 
 ## 알고리즘 문제 풀기
-|타이틀|폴더로 이동|
-|---|:---:|
-|**백준 알고리즘**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon)|
-|**프로그래머스**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/Programmers)|
-|**해커랭크**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/HackerRank/Easy)|
+|타이틀|폴더로 이동|사이트 주소|
+|---|:---:|:---:|
+|**백준 알고리즘**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/BaekJoon)|[사이트](https://www.acmicpc.net)|
+|**프로그래머스**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/Programmers)|[사이트](https://programmers.co.kr/learn/challenges)|
+|**해커랭크**|[이동](https://github.com/Hschan2/Algorithm-Study/tree/master/HackerRank/Easy)|[사이트](https://www.hackerrank.com/)|
 
 <br/>
 
