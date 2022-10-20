@@ -11,3 +11,6 @@
 |**팰리드롬, 회문**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC(%ED%9A%8C%EB%AC%B8).js)|
 |**최대 수익 계산**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%B5%9C%EB%8C%80%EC%88%98%EC%9D%B5%20%EA%B3%84%EC%82%B0.js)|
 |**올바른 괄호**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js)|
+|**이진 탐색**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.js)|
+|**나선형 매트릭스**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EB%82%98%EC%84%A0%ED%98%95%20%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4.js)|
+|**두 객체 비교하기**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EB%91%90%20%EA%B0%9D%EC%B2%B4%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.js)|
