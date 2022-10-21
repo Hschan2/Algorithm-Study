@@ -14,3 +14,6 @@
 |**이진 탐색**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.js)|
 |**나선형 매트릭스**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EB%82%98%EC%84%A0%ED%98%95%20%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4.js)|
 |**두 객체 비교하기**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EB%91%90%20%EA%B0%9D%EC%B2%B4%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.js)|
+|**LCP**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/LCP.js)|
+|**배열 0 옮기기**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EB%B0%B0%EC%97%B4%200%20%EC%98%AD%EA%B8%B0%EA%B8%B0.js)|
+|**순열**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%88%9C%EC%97%B4.js)|
