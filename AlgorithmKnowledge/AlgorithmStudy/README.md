@@ -19,3 +19,5 @@
 |**순열**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%88%9C%EC%97%B4.js)|
 |**구간 병합**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EA%B5%AC%EA%B0%84%20%EB%B3%91%ED%95%A9.js)|
 |**중복이 없는가**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%A4%91%EB%B3%B5%EC%9D%B4%20%EC%97%86%EB%8A%94%EA%B0%80.js)|
+|**순열 확인**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%88%9C%EC%97%B4%20%ED%99%95%EC%9D%B8.js)|
+|**URLify**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/URLify.js)|
