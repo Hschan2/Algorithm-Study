@@ -21,3 +21,6 @@
 |**중복이 없는가**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%A4%91%EB%B3%B5%EC%9D%B4%20%EC%97%86%EB%8A%94%EA%B0%80.js)|
 |**순열 확인**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EC%88%9C%EC%97%B4%20%ED%99%95%EC%9D%B8.js)|
 |**URLify**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/URLify.js)|
+|**회전 순열**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%ED%9A%8C%EB%AC%B8%20%EC%88%9C%EC%97%B4.js)|
+|**하나 빼기**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%ED%95%98%EB%82%98%20%EB%B9%BC%EA%B8%B0.js)|
+|**문자열 압축**|[이동](https://github.com/Hschan2/Algorithm-Study/blob/master/AlgorithmKnowledge/AlgorithmStudy/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.js)|
