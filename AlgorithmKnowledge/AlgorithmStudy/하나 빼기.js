@@ -19,6 +19,7 @@ function oneAway(strA, strB) {
 function checkEditReplace(strA, strB) {
     const edits = 0
 
+    // 예. "aple", "apple" => 3번째의 l과 p가 다르기 때문에 뒤의 긴 글자의 인덱스를 하나 증가시킨다
     for (let i = 0; i < strA.length; i++) {
         if (strA[i] !== strB[i]) {
             edits++
