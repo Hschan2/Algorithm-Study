@@ -63,3 +63,14 @@ const input_3 = [' + + - - - - + ', ' + + - + + - - ', '+ +-- +++ ', ' ++- ++++'
 console.log(solution(input_1));
 console.log(solution(input_2));
 console.log(solution(input_3));
+
+function correct(data) {
+    let result = ''
+
+    for (let i of data) {
+        i = parseInt(i.replace(/ /g, '').replace(/\+/g, '1').replace(/-/g, '0'), 2)
+        result += String.fromCharCode(i);
+    }
+
+    return result;
+}
